@@ -1,4 +1,3 @@
+const URL = "https://e-banking-project-8.onrender.com/bank";
 
-const URL='http://localhost:8000/bank'
-
-export default URL
+export default URL;
